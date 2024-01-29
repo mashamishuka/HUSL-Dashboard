@@ -1,0 +1,24 @@
+{
+  "id": "//ly.img.fonts",
+  "version": "0.3.0",
+  "schemaVersion": "0.1.0",
+  "assets": [
+    {
+      "type": "ly.img.font",
+      "assets": [
+        {
+          "id": "supply light",
+          "fontFamily": "Supply",
+          "fontWeight": "light",
+          "fontPath": "fonts/SupplyMono-Light-Web/Supply-Light.otf"
+        },
+        {
+          "id": "supply regular",
+          "fontFamily": "Supply",
+          "fontWeight": "regular",
+          "fontPath": "fonts/SupplyMono-Regular-Web/Supply-Regular.otf"
+        }
+      ]
+    }
+  ]
+}

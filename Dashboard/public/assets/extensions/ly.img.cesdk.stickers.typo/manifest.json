@@ -1,0 +1,169 @@
+{
+  "id": "//ly.img.cesdk.stickers.typo",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/typo",
+          "assets": [
+            "//ly.img.cesdk.stickers.typo/bffs1",
+            "//ly.img.cesdk.stickers.typo/bffs2_black",
+            "//ly.img.cesdk.stickers.typo/forever",
+            "//ly.img.cesdk.stickers.typo/forever_white",
+            "//ly.img.cesdk.stickers.typo/goodluck01_green",
+            "//ly.img.cesdk.stickers.typo/goodluck02_green",
+            "//ly.img.cesdk.stickers.typo/goodluck03_green",
+            "//ly.img.cesdk.stickers.typo/happybday_glitter",
+            "//ly.img.cesdk.stickers.typo/justforyou",
+            "//ly.img.cesdk.stickers.typo/justlove_pink",
+            "//ly.img.cesdk.stickers.typo/mademayday_black",
+            "//ly.img.cesdk.stickers.typo/takeiteasy",
+            "//ly.img.cesdk.stickers.typo/youandme02_black",
+            "//ly.img.cesdk.stickers.typo/youandme02_blackwhite",
+            "//ly.img.cesdk.stickers.typo/youandme_bang_pink"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "bffs1",
+          "thumbPath": "images/bffs1.svg",
+          "imagePath": "images/bffs1.svg",
+          "size": {
+            "width": 2048,
+            "height": 1334
+          }
+        },
+        {
+          "id": "bffs2_black",
+          "thumbPath": "images/bffs2_black.svg",
+          "imagePath": "images/bffs2_black.svg",
+          "size": {
+            "width": 2048,
+            "height": 1021
+          }
+        },
+        {
+          "id": "forever",
+          "thumbPath": "images/forever.svg",
+          "imagePath": "images/forever.svg",
+          "size": {
+            "width": 2048,
+            "height": 1242
+          }
+        },
+        {
+          "id": "forever_white",
+          "thumbPath": "images/forever_white.svg",
+          "imagePath": "images/forever_white.svg",
+          "size": {
+            "width": 1075,
+            "height": 2048
+          }
+        },
+        {
+          "id": "goodluck01_green",
+          "thumbPath": "images/goodluck01_green.svg",
+          "imagePath": "images/goodluck01_green.svg",
+          "size": {
+            "width": 1485,
+            "height": 2048
+          }
+        },
+        {
+          "id": "goodluck02_green",
+          "thumbPath": "images/goodluck02_green.svg",
+          "imagePath": "images/goodluck02_green.svg",
+          "size": {
+            "width": 1467,
+            "height": 2048
+          }
+        },
+        {
+          "id": "goodluck03_green",
+          "thumbPath": "images/goodluck03_green.svg",
+          "imagePath": "images/goodluck03_green.svg",
+          "size": {
+            "width": 2048,
+            "height": 1119
+          }
+        },
+        {
+          "id": "happybday_glitter",
+          "thumbPath": "images/happybday_glitter.svg",
+          "imagePath": "images/happybday_glitter.svg",
+          "size": {
+            "width": 2048,
+            "height": 1589
+          }
+        },
+        {
+          "id": "justforyou",
+          "thumbPath": "images/justforyou.svg",
+          "imagePath": "images/justforyou.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "justlove_pink",
+          "thumbPath": "images/justlove_pink.svg",
+          "imagePath": "images/justlove_pink.svg",
+          "size": {
+            "width": 2031,
+            "height": 2048
+          }
+        },
+        {
+          "id": "mademayday_black",
+          "thumbPath": "images/mademayday_black.svg",
+          "imagePath": "images/mademayday_black.svg",
+          "size": {
+            "width": 1749,
+            "height": 2048
+          }
+        },
+        {
+          "id": "takeiteasy",
+          "thumbPath": "images/takeiteasy.svg",
+          "imagePath": "images/takeiteasy.svg",
+          "size": {
+            "width": 2048,
+            "height": 1665
+          }
+        },
+        {
+          "id": "youandme02_black",
+          "thumbPath": "images/youandme02_black.svg",
+          "imagePath": "images/youandme02_black.svg",
+          "size": {
+            "width": 2048,
+            "height": 1849
+          }
+        },
+        {
+          "id": "youandme02_blackwhite",
+          "thumbPath": "images/youandme02_blackwhite.svg",
+          "imagePath": "images/youandme02_blackwhite.svg",
+          "size": {
+            "width": 2048,
+            "height": 1849
+          }
+        },
+        {
+          "id": "youandme_bang_pink",
+          "thumbPath": "images/youandme_bang_pink.svg",
+          "imagePath": "images/youandme_bang_pink.svg",
+          "size": {
+            "width": 1075,
+            "height": 2048
+          }
+        }
+      ]
+    }
+  ]
+}

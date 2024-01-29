@@ -1,0 +1,156 @@
+{
+  "assets": [
+    {
+      "assets": [
+        {
+          "id": "placeholder",
+          "imagePath": "https://s3.us-central-1.wasabisys.com/husl-admin/public/img-placeholder.png",
+          "size": {
+            "height": 350,
+            "width": 556
+          },
+          "thumbPath": "https://s3.us-central-1.wasabisys.com/husl-admin/public/img-placeholder.png"
+        },
+        {
+          "id": "yoga",
+          "imagePath": "https://i.imgur.com/TyUybFZ.png",
+          "size": {
+            "height": 828,
+            "width": 907
+          },
+          "thumbPath": "https://i.imgur.com/TyUybFZ.png"
+        },
+        {
+          "id": "sample.1",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_1.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_1.jpg"
+        },
+        {
+          "id": "sample.2",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_2.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_2.jpg"
+        },
+        {
+          "id": "sample.3",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_3.jpg",
+          "size": {
+            "height": 2500,
+            "width": 1667
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_3.jpg"
+        },
+        {
+          "id": "sample.4",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_4.jpg",
+          "size": {
+            "height": 2500,
+            "width": 1667
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_4.jpg"
+        },
+        {
+          "id": "sample.5",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_5.jpg",
+          "size": {
+            "height": 1786,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_5.jpg"
+        },
+        {
+          "id": "sample.6",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_6.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_6.jpg"
+        },
+        {
+          "id": "sample.7",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_7.jpg",
+          "size": {
+            "height": 2500,
+            "width": 1667
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_7.jpg"
+        },
+        {
+          "id": "sample.8",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_8.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_8.jpg"
+        },
+        {
+          "id": "sample.9",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_9.jpg",
+          "size": {
+            "height": 2500,
+            "width": 1667
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_9.jpg"
+        },
+        {
+          "id": "sample.10",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_10.jpg",
+          "size": {
+            "height": 3456,
+            "width": 5184
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_10.jpg"
+        },
+        {
+          "id": "sample.11",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_11.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_11.jpg"
+        },
+        {
+          "id": "sample.12",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_12.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_12.jpg"
+        },
+        {
+          "id": "sample.13",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_13.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_13.jpg"
+        },
+        {
+          "id": "sample.14",
+          "imagePath": "https://img.ly/static/ubq_samples/sample_14.jpg",
+          "size": {
+            "height": 1667,
+            "width": 2500
+          },
+          "thumbPath": "https://img.ly/static/ubq_samples/thumbnails/sample_14.jpg"
+        }
+      ],
+      "type": "ly.img.image"
+    }
+  ],
+  "id": "//ly.img.cesdk.images.samples",
+  "schemaVersion": "0.1.0",
+  "version": "0.1.0"
+}

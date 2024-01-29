@@ -1,0 +1,599 @@
+{
+  "id": "//ly.img.cesdk.stickers.emoticons",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/emoticons",
+          "assets": [
+            "//ly.img.cesdk.stickers.emoticons/alien",
+            "//ly.img.cesdk.stickers.emoticons/angel",
+            "//ly.img.cesdk.stickers.emoticons/angry",
+            "//ly.img.cesdk.stickers.emoticons/anxious",
+            "//ly.img.cesdk.stickers.emoticons/asleep",
+            "//ly.img.cesdk.stickers.emoticons/attention",
+            "//ly.img.cesdk.stickers.emoticons/baby_chicken",
+            "//ly.img.cesdk.stickers.emoticons/batman",
+            "//ly.img.cesdk.stickers.emoticons/beer",
+            "//ly.img.cesdk.stickers.emoticons/blush",
+            "//ly.img.cesdk.stickers.emoticons/boxer",
+            "//ly.img.cesdk.stickers.emoticons/business",
+            "//ly.img.cesdk.stickers.emoticons/chicken",
+            "//ly.img.cesdk.stickers.emoticons/cool",
+            "//ly.img.cesdk.stickers.emoticons/cry",
+            "//ly.img.cesdk.stickers.emoticons/deceased",
+            "//ly.img.cesdk.stickers.emoticons/devil",
+            "//ly.img.cesdk.stickers.emoticons/duckface",
+            "//ly.img.cesdk.stickers.emoticons/furious",
+            "//ly.img.cesdk.stickers.emoticons/grin",
+            "//ly.img.cesdk.stickers.emoticons/guitar",
+            "//ly.img.cesdk.stickers.emoticons/harry_potter",
+            "//ly.img.cesdk.stickers.emoticons/hippie",
+            "//ly.img.cesdk.stickers.emoticons/hitman",
+            "//ly.img.cesdk.stickers.emoticons/humourous",
+            "//ly.img.cesdk.stickers.emoticons/idea",
+            "//ly.img.cesdk.stickers.emoticons/impatient",
+            "//ly.img.cesdk.stickers.emoticons/kiss",
+            "//ly.img.cesdk.stickers.emoticons/kisses",
+            "//ly.img.cesdk.stickers.emoticons/laugh",
+            "//ly.img.cesdk.stickers.emoticons/loud_cry",
+            "//ly.img.cesdk.stickers.emoticons/loving",
+            "//ly.img.cesdk.stickers.emoticons/masked",
+            "//ly.img.cesdk.stickers.emoticons/music",
+            "//ly.img.cesdk.stickers.emoticons/nerd",
+            "//ly.img.cesdk.stickers.emoticons/ninja",
+            "//ly.img.cesdk.stickers.emoticons/not_speaking_to_you",
+            "//ly.img.cesdk.stickers.emoticons/pig",
+            "//ly.img.cesdk.stickers.emoticons/pumpkin",
+            "//ly.img.cesdk.stickers.emoticons/question",
+            "//ly.img.cesdk.stickers.emoticons/rabbit",
+            "//ly.img.cesdk.stickers.emoticons/sad",
+            "//ly.img.cesdk.stickers.emoticons/sick",
+            "//ly.img.cesdk.stickers.emoticons/skateboard",
+            "//ly.img.cesdk.stickers.emoticons/skull",
+            "//ly.img.cesdk.stickers.emoticons/sleepy",
+            "//ly.img.cesdk.stickers.emoticons/smile",
+            "//ly.img.cesdk.stickers.emoticons/smoking",
+            "//ly.img.cesdk.stickers.emoticons/sobbing",
+            "//ly.img.cesdk.stickers.emoticons/star",
+            "//ly.img.cesdk.stickers.emoticons/steaming_furious",
+            "//ly.img.cesdk.stickers.emoticons/sunbathing",
+            "//ly.img.cesdk.stickers.emoticons/tired",
+            "//ly.img.cesdk.stickers.emoticons/tongue_out_wink",
+            "//ly.img.cesdk.stickers.emoticons/wave",
+            "//ly.img.cesdk.stickers.emoticons/wide_grin",
+            "//ly.img.cesdk.stickers.emoticons/wink",
+            "//ly.img.cesdk.stickers.emoticons/wrestler"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "alien",
+          "thumbPath": "images/imgly_sticker_emoticons_alien.svg",
+          "imagePath": "images/imgly_sticker_emoticons_alien.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "angel",
+          "thumbPath": "images/imgly_sticker_emoticons_angel.svg",
+          "imagePath": "images/imgly_sticker_emoticons_angel.svg",
+          "size": {
+            "width": 62,
+            "height": 64
+          }
+        },
+        {
+          "id": "angry",
+          "thumbPath": "images/imgly_sticker_emoticons_angry.svg",
+          "imagePath": "images/imgly_sticker_emoticons_angry.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "anxious",
+          "thumbPath": "images/imgly_sticker_emoticons_anxious.svg",
+          "imagePath": "images/imgly_sticker_emoticons_anxious.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "asleep",
+          "thumbPath": "images/imgly_sticker_emoticons_asleep.svg",
+          "imagePath": "images/imgly_sticker_emoticons_asleep.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "attention",
+          "thumbPath": "images/imgly_sticker_emoticons_attention.svg",
+          "imagePath": "images/imgly_sticker_emoticons_attention.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        },
+        {
+          "id": "baby_chicken",
+          "thumbPath": "images/imgly_sticker_emoticons_baby_chicken.svg",
+          "imagePath": "images/imgly_sticker_emoticons_baby_chicken.svg",
+          "size": {
+            "width": 61,
+            "height": 42
+          }
+        },
+        {
+          "id": "batman",
+          "thumbPath": "images/imgly_sticker_emoticons_batman.svg",
+          "imagePath": "images/imgly_sticker_emoticons_batman.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "beer",
+          "thumbPath": "images/imgly_sticker_emoticons_beer.svg",
+          "imagePath": "images/imgly_sticker_emoticons_beer.svg",
+          "size": {
+            "width": 62,
+            "height": 59
+          }
+        },
+        {
+          "id": "blush",
+          "thumbPath": "images/imgly_sticker_emoticons_blush.svg",
+          "imagePath": "images/imgly_sticker_emoticons_blush.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "boxer",
+          "thumbPath": "images/imgly_sticker_emoticons_boxer.svg",
+          "imagePath": "images/imgly_sticker_emoticons_boxer.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "business",
+          "thumbPath": "images/imgly_sticker_emoticons_business.svg",
+          "imagePath": "images/imgly_sticker_emoticons_business.svg",
+          "size": {
+            "width": 60,
+            "height": 63
+          }
+        },
+        {
+          "id": "chicken",
+          "thumbPath": "images/imgly_sticker_emoticons_chicken.svg",
+          "imagePath": "images/imgly_sticker_emoticons_chicken.svg",
+          "size": {
+            "width": 63,
+            "height": 55
+          }
+        },
+        {
+          "id": "cool",
+          "thumbPath": "images/imgly_sticker_emoticons_cool.svg",
+          "imagePath": "images/imgly_sticker_emoticons_cool.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "cry",
+          "thumbPath": "images/imgly_sticker_emoticons_cry.svg",
+          "imagePath": "images/imgly_sticker_emoticons_cry.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "deceased",
+          "thumbPath": "images/imgly_sticker_emoticons_deceased.svg",
+          "imagePath": "images/imgly_sticker_emoticons_deceased.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "devil",
+          "thumbPath": "images/imgly_sticker_emoticons_devil.svg",
+          "imagePath": "images/imgly_sticker_emoticons_devil.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "duckface",
+          "thumbPath": "images/imgly_sticker_emoticons_duckface.svg",
+          "imagePath": "images/imgly_sticker_emoticons_duckface.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "furious",
+          "thumbPath": "images/imgly_sticker_emoticons_furious.svg",
+          "imagePath": "images/imgly_sticker_emoticons_furious.svg",
+          "size": {
+            "width": 62,
+            "height": 61
+          }
+        },
+        {
+          "id": "grin",
+          "thumbPath": "images/imgly_sticker_emoticons_grin.svg",
+          "imagePath": "images/imgly_sticker_emoticons_grin.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "guitar",
+          "thumbPath": "images/imgly_sticker_emoticons_guitar.svg",
+          "imagePath": "images/imgly_sticker_emoticons_guitar.svg",
+          "size": {
+            "width": 64,
+            "height": 60
+          }
+        },
+        {
+          "id": "harry_potter",
+          "thumbPath": "images/imgly_sticker_emoticons_harry_potter.svg",
+          "imagePath": "images/imgly_sticker_emoticons_harry_potter.svg",
+          "size": {
+            "width": 64,
+            "height": 62
+          }
+        },
+        {
+          "id": "hippie",
+          "thumbPath": "images/imgly_sticker_emoticons_hippie.svg",
+          "imagePath": "images/imgly_sticker_emoticons_hippie.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "hitman",
+          "thumbPath": "images/imgly_sticker_emoticons_hitman.svg",
+          "imagePath": "images/imgly_sticker_emoticons_hitman.svg",
+          "size": {
+            "width": 64,
+            "height": 60
+          }
+        },
+        {
+          "id": "humourous",
+          "thumbPath": "images/imgly_sticker_emoticons_humourous.svg",
+          "imagePath": "images/imgly_sticker_emoticons_humourous.svg",
+          "size": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "idea",
+          "thumbPath": "images/imgly_sticker_emoticons_idea.svg",
+          "imagePath": "images/imgly_sticker_emoticons_idea.svg",
+          "size": {
+            "width": 64,
+            "height": 62
+          }
+        },
+        {
+          "id": "impatient",
+          "thumbPath": "images/imgly_sticker_emoticons_impatient.svg",
+          "imagePath": "images/imgly_sticker_emoticons_impatient.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "kiss",
+          "thumbPath": "images/imgly_sticker_emoticons_kiss.svg",
+          "imagePath": "images/imgly_sticker_emoticons_kiss.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "kisses",
+          "thumbPath": "images/imgly_sticker_emoticons_kisses.svg",
+          "imagePath": "images/imgly_sticker_emoticons_kisses.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "laugh",
+          "thumbPath": "images/imgly_sticker_emoticons_laugh.svg",
+          "imagePath": "images/imgly_sticker_emoticons_laugh.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "loud_cry",
+          "thumbPath": "images/imgly_sticker_emoticons_loud_cry.svg",
+          "imagePath": "images/imgly_sticker_emoticons_loud_cry.svg",
+          "size": {
+            "width": 64,
+            "height": 58
+          }
+        },
+        {
+          "id": "loving",
+          "thumbPath": "images/imgly_sticker_emoticons_loving.svg",
+          "imagePath": "images/imgly_sticker_emoticons_loving.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "masked",
+          "thumbPath": "images/imgly_sticker_emoticons_masked.svg",
+          "imagePath": "images/imgly_sticker_emoticons_masked.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "music",
+          "thumbPath": "images/imgly_sticker_emoticons_music.svg",
+          "imagePath": "images/imgly_sticker_emoticons_music.svg",
+          "size": {
+            "width": 62,
+            "height": 54
+          }
+        },
+        {
+          "id": "nerd",
+          "thumbPath": "images/imgly_sticker_emoticons_nerd.svg",
+          "imagePath": "images/imgly_sticker_emoticons_nerd.svg",
+          "size": {
+            "width": 64,
+            "height": 58
+          }
+        },
+        {
+          "id": "ninja",
+          "thumbPath": "images/imgly_sticker_emoticons_ninja.svg",
+          "imagePath": "images/imgly_sticker_emoticons_ninja.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "not_speaking_to_you",
+          "thumbPath": "images/imgly_sticker_emoticons_not_speaking_to_you.svg",
+          "imagePath": "images/imgly_sticker_emoticons_not_speaking_to_you.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "pig",
+          "thumbPath": "images/imgly_sticker_emoticons_pig.svg",
+          "imagePath": "images/imgly_sticker_emoticons_pig.svg",
+          "size": {
+            "width": 63,
+            "height": 41
+          }
+        },
+        {
+          "id": "pumpkin",
+          "thumbPath": "images/imgly_sticker_emoticons_pumpkin.svg",
+          "imagePath": "images/imgly_sticker_emoticons_pumpkin.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        },
+        {
+          "id": "question",
+          "thumbPath": "images/imgly_sticker_emoticons_question.svg",
+          "imagePath": "images/imgly_sticker_emoticons_question.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "rabbit",
+          "thumbPath": "images/imgly_sticker_emoticons_rabbit.svg",
+          "imagePath": "images/imgly_sticker_emoticons_rabbit.svg",
+          "size": {
+            "width": 65,
+            "height": 47
+          }
+        },
+        {
+          "id": "sad",
+          "thumbPath": "images/imgly_sticker_emoticons_sad.svg",
+          "imagePath": "images/imgly_sticker_emoticons_sad.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "sick",
+          "thumbPath": "images/imgly_sticker_emoticons_sick.svg",
+          "imagePath": "images/imgly_sticker_emoticons_sick.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "skateboard",
+          "thumbPath": "images/imgly_sticker_emoticons_skateboard.svg",
+          "imagePath": "images/imgly_sticker_emoticons_skateboard.svg",
+          "size": {
+            "width": 62,
+            "height": 64
+          }
+        },
+        {
+          "id": "skull",
+          "thumbPath": "images/imgly_sticker_emoticons_skull.svg",
+          "imagePath": "images/imgly_sticker_emoticons_skull.svg",
+          "size": {
+            "width": 62,
+            "height": 62
+          }
+        },
+        {
+          "id": "sleepy",
+          "thumbPath": "images/imgly_sticker_emoticons_sleepy.svg",
+          "imagePath": "images/imgly_sticker_emoticons_sleepy.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        },
+        {
+          "id": "smile",
+          "thumbPath": "images/imgly_sticker_emoticons_smile.svg",
+          "imagePath": "images/imgly_sticker_emoticons_smile.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "smoking",
+          "thumbPath": "images/imgly_sticker_emoticons_smoking.svg",
+          "imagePath": "images/imgly_sticker_emoticons_smoking.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "sobbing",
+          "thumbPath": "images/imgly_sticker_emoticons_sobbing.svg",
+          "imagePath": "images/imgly_sticker_emoticons_sobbing.svg",
+          "size": {
+            "width": 62,
+            "height": 59
+          }
+        },
+        {
+          "id": "star",
+          "thumbPath": "images/imgly_sticker_emoticons_star.svg",
+          "imagePath": "images/imgly_sticker_emoticons_star.svg",
+          "size": {
+            "width": 64,
+            "height": 64
+          }
+        },
+        {
+          "id": "steaming_furious",
+          "thumbPath": "images/imgly_sticker_emoticons_steaming_furious.svg",
+          "imagePath": "images/imgly_sticker_emoticons_steaming_furious.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "sunbathing",
+          "thumbPath": "images/imgly_sticker_emoticons_sunbathing.svg",
+          "imagePath": "images/imgly_sticker_emoticons_sunbathing.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "tired",
+          "thumbPath": "images/imgly_sticker_emoticons_tired.svg",
+          "imagePath": "images/imgly_sticker_emoticons_tired.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        },
+        {
+          "id": "tongue_out_wink",
+          "thumbPath": "images/imgly_sticker_emoticons_tongue_out_wink.svg",
+          "imagePath": "images/imgly_sticker_emoticons_tongue_out_wink.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "wave",
+          "thumbPath": "images/imgly_sticker_emoticons_wave.svg",
+          "imagePath": "images/imgly_sticker_emoticons_wave.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        },
+        {
+          "id": "wide_grin",
+          "thumbPath": "images/imgly_sticker_emoticons_wide_grin.svg",
+          "imagePath": "images/imgly_sticker_emoticons_wide_grin.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "wink",
+          "thumbPath": "images/imgly_sticker_emoticons_wink.svg",
+          "imagePath": "images/imgly_sticker_emoticons_wink.svg",
+          "size": {
+            "width": 62,
+            "height": 58
+          }
+        },
+        {
+          "id": "wrestler",
+          "thumbPath": "images/imgly_sticker_emoticons_wrestler.svg",
+          "imagePath": "images/imgly_sticker_emoticons_wrestler.svg",
+          "size": {
+            "width": 62,
+            "height": 60
+          }
+        }
+      ]
+    }
+  ]
+}

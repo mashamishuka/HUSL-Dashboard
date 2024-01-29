@@ -1,0 +1,99 @@
+{
+  "id": "//ly.img.cesdk.stickers.typo_happy",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/typo_happy",
+          "assets": [
+            "//ly.img.cesdk.stickers.typo_happy/01",
+            "//ly.img.cesdk.stickers.typo_happy/02",
+            "//ly.img.cesdk.stickers.typo_happy/03",
+            "//ly.img.cesdk.stickers.typo_happy/04",
+            "//ly.img.cesdk.stickers.typo_happy/3D_01",
+            "//ly.img.cesdk.stickers.typo_happy/3D_02",
+            "//ly.img.cesdk.stickers.typo_happy/3D_03",
+            "//ly.img.cesdk.stickers.typo_happy/3D_04"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "01",
+          "thumbPath": "images/happybirthday_01.svg",
+          "imagePath": "images/happybirthday_01.svg",
+          "size": {
+            "width": 2048,
+            "height": 585
+          }
+        },
+        {
+          "id": "02",
+          "thumbPath": "images/happybirthday_02.svg",
+          "imagePath": "images/happybirthday_02.svg",
+          "size": {
+            "width": 2048,
+            "height": 585
+          }
+        },
+        {
+          "id": "03",
+          "thumbPath": "images/happybirthday_03.svg",
+          "imagePath": "images/happybirthday_03.svg",
+          "size": {
+            "width": 2048,
+            "height": 873
+          }
+        },
+        {
+          "id": "04",
+          "thumbPath": "images/happybirthday_04.svg",
+          "imagePath": "images/happybirthday_04.svg",
+          "size": {
+            "width": 2048,
+            "height": 907
+          }
+        },
+        {
+          "id": "3D_01",
+          "thumbPath": "images/happybirthday_3D_01.svg",
+          "imagePath": "images/happybirthday_3D_01.svg",
+          "size": {
+            "width": 1906,
+            "height": 2048
+          }
+        },
+        {
+          "id": "3D_02",
+          "thumbPath": "images/happybirthday_3D_02.svg",
+          "imagePath": "images/happybirthday_3D_02.svg",
+          "size": {
+            "width": 1872,
+            "height": 2048
+          }
+        },
+        {
+          "id": "3D_03",
+          "thumbPath": "images/happybirthday_3D_03.svg",
+          "imagePath": "images/happybirthday_3D_03.svg",
+          "size": {
+            "width": 1872,
+            "height": 2048
+          }
+        },
+        {
+          "id": "3D_04",
+          "thumbPath": "images/happybirthday_3D_04.svg",
+          "imagePath": "images/happybirthday_3D_04.svg",
+          "size": {
+            "width": 1872,
+            "height": 2048
+          }
+        }
+      ]
+    }
+  ]
+}

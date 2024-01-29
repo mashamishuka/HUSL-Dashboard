@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "importSorter.importStringConfiguration.hasSemicolon": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false
+  },
+  "files.exclude": {
+    "**/dist/**": true,
+    "**/node_modules/**": true
+  },
+  "files.watcherExclude": {
+    "**/dist/**": true,
+    "**/node_modules/**": true
+  },
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+}

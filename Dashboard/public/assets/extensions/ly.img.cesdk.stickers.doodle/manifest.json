@@ -1,0 +1,189 @@
+{
+  "id": "//ly.img.cesdk.stickers.doodle",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/doodle",
+          "assets": [
+            "//ly.img.cesdk.stickers.doodle/camera",
+            "//ly.img.cesdk.stickers.doodle/divingmask",
+            "//ly.img.cesdk.stickers.doodle/fish",
+            "//ly.img.cesdk.stickers.doodle/hat",
+            "//ly.img.cesdk.stickers.doodle/hula",
+            "//ly.img.cesdk.stickers.doodle/jetpack",
+            "//ly.img.cesdk.stickers.doodle/pipe",
+            "//ly.img.cesdk.stickers.doodle/rocket",
+            "//ly.img.cesdk.stickers.doodle/saturn",
+            "//ly.img.cesdk.stickers.doodle/skateboard",
+            "//ly.img.cesdk.stickers.doodle/spaceman",
+            "//ly.img.cesdk.stickers.doodle/star",
+            "//ly.img.cesdk.stickers.doodle/starfish",
+            "//ly.img.cesdk.stickers.doodle/sun",
+            "//ly.img.cesdk.stickers.doodle/surfing",
+            "//ly.img.cesdk.stickers.doodle/wing_01",
+            "//ly.img.cesdk.stickers.doodle/wing_02"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "camera",
+          "thumbPath": "images/doodle_camera.svg",
+          "imagePath": "images/doodle_camera.svg",
+          "size": {
+            "width": 2048,
+            "height": 1339
+          }
+        },
+        {
+          "id": "divingmask",
+          "thumbPath": "images/doodle_divingmask.svg",
+          "imagePath": "images/doodle_divingmask.svg",
+          "size": {
+            "width": 1506,
+            "height": 2048
+          }
+        },
+        {
+          "id": "fish",
+          "thumbPath": "images/doodle_fish.svg",
+          "imagePath": "images/doodle_fish.svg",
+          "size": {
+            "width": 1004,
+            "height": 2048
+          }
+        },
+        {
+          "id": "hat",
+          "thumbPath": "images/doodle_hat.svg",
+          "imagePath": "images/doodle_hat.svg",
+          "size": {
+            "width": 2048,
+            "height": 984
+          }
+        },
+        {
+          "id": "hula",
+          "thumbPath": "images/doodle_hula.svg",
+          "imagePath": "images/doodle_hula.svg",
+          "size": {
+            "width": 1114,
+            "height": 2048
+          }
+        },
+        {
+          "id": "jetpack",
+          "thumbPath": "images/doodle_jetpack.svg",
+          "imagePath": "images/doodle_jetpack.svg",
+          "size": {
+            "width": 1346,
+            "height": 2048
+          }
+        },
+        {
+          "id": "pipe",
+          "thumbPath": "images/doodle_pipe.svg",
+          "imagePath": "images/doodle_pipe.svg",
+          "size": {
+            "width": 1551,
+            "height": 2048
+          }
+        },
+        {
+          "id": "rocket",
+          "thumbPath": "images/doodle_rocket.svg",
+          "imagePath": "images/doodle_rocket.svg",
+          "size": {
+            "width": 738,
+            "height": 2048
+          }
+        },
+        {
+          "id": "saturn",
+          "thumbPath": "images/doodle_saturn.svg",
+          "imagePath": "images/doodle_saturn.svg",
+          "size": {
+            "width": 2048,
+            "height": 1036
+          }
+        },
+        {
+          "id": "skateboard",
+          "thumbPath": "images/doodle_skateboard.svg",
+          "imagePath": "images/doodle_skateboard.svg",
+          "size": {
+            "width": 2048,
+            "height": 394
+          }
+        },
+        {
+          "id": "spaceman",
+          "thumbPath": "images/doodle_spaceman.svg",
+          "imagePath": "images/doodle_spaceman.svg",
+          "size": {
+            "width": 1688,
+            "height": 2048
+          }
+        },
+        {
+          "id": "star",
+          "thumbPath": "images/doodle_star.svg",
+          "imagePath": "images/doodle_star.svg",
+          "size": {
+            "width": 1937,
+            "height": 2048
+          }
+        },
+        {
+          "id": "starfish",
+          "thumbPath": "images/doodle_starfish.svg",
+          "imagePath": "images/doodle_starfish.svg",
+          "size": {
+            "width": 2048,
+            "height": 1969
+          }
+        },
+        {
+          "id": "sun",
+          "thumbPath": "images/doodle_sun.svg",
+          "imagePath": "images/doodle_sun.svg",
+          "size": {
+            "width": 2331,
+            "height": 2048
+          }
+        },
+        {
+          "id": "surfing",
+          "thumbPath": "images/doodle_surfing.svg",
+          "imagePath": "images/doodle_surfing.svg",
+          "size": {
+            "width": 2048,
+            "height": 759
+          }
+        },
+        {
+          "id": "wing_01",
+          "thumbPath": "images/doodle_wing_01.svg",
+          "imagePath": "images/doodle_wing_01.svg",
+          "size": {
+            "width": 1496,
+            "height": 2048
+          }
+        },
+        {
+          "id": "wing_02",
+          "thumbPath": "images/doodle_wing_02.svg",
+          "imagePath": "images/doodle_wing_02.svg",
+          "size": {
+            "width": 902,
+            "height": 2048
+          }
+        }
+      ]
+    }
+  ]
+}

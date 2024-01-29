@@ -1,0 +1,198 @@
+@import 'tailwindcss/base';
+/* Write your own custom base styles here */
+/* Start purging... */
+@import 'tailwindcss/components';
+
+/* Stop purging. */
+@import 'typography';
+@import 'loader';
+@import './vendor/hamburger';
+@import './vendor/react-tags.scss';
+
+html,
+body {
+  @apply font-body text-white;
+  background-color: #181818;
+  scroll-behavior: smooth;
+}
+.tippy-box {
+  background-color: #272624 !important;
+  .tippy-content {
+    @apply text-xs font-light px-3 py-1;
+  }
+  .tippy-arrow {
+    @apply text-dark;
+  }
+}
+
+.react-datepicker-popper[data-placement^='bottom'] {
+  padding-top: 0 !important;
+}
+.react-datepicker__navigation {
+  top: 1rem !important;
+}
+.react-datepicker__navigation-icon::before {
+  border-width: 2px 2px 0 0 !important;
+  border-color: #4a4a68 !important;
+}
+.react-datepicker__navigation--previous {
+  right: 2rem;
+  left: auto !important;
+}
+
+.react-datepicker__day-name {
+  color: #8c8ca1 !important;
+  width: 2rem !important;
+}
+.react-datepicker__week {
+  @apply pb-2;
+}
+.react-datepicker__day {
+  width: 2rem !important;
+  height: 2rem !important;
+  display: inline-flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-radius: 50% !important;
+  color: #4a4a68 !important;
+
+  &.react-datepicker__day--outside-month {
+    color: #8c8ca1 !important;
+  }
+  &.react-datepicker__day--keyboard-selected {
+    background-color: #fff !important;
+    &:hover {
+      background-color: #ecf1f4 !important;
+    }
+  }
+  &.react-datepicker__day--selected {
+    background-color: #ecf1f4;
+    @apply text-black;
+    &:hover {
+      background-color: #cdcdcd;
+    }
+  }
+}
+.react-datepicker__header {
+  padding-top: 1rem !important;
+  padding-bottom: 0 !important;
+  border-bottom: 0 !important;
+  .react-datepicker__current-month {
+    @apply pl-3 text-left pb-4 font-medium;
+  }
+}
+.react-datepicker {
+  font-family: Nunito, sans-serif !important;
+  border: 1px solid #f2f2f2 !important;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 5px !important;
+  .react-datepicker__header {
+    background-color: #fff;
+  }
+  .react-datepicker__triangle {
+    @apply hidden;
+  }
+}
+.text-hover-white {
+  &:hover * {
+    color: #fff;
+  }
+}
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.ais-SearchBox-form {
+  @apply relative;
+  .ais-SearchBox-input {
+    @apply w-full py-3 pl-14 pr-4 border-0 rounded-3xl bg-[#222] focus-within:border-transparent focus:ring-0 placeholder:font-light placeholder:text-white placeholder:text-opacity-50;
+  }
+  .ais-SearchBox-submit {
+    @apply absolute left-5 text-white top-1/2 transform -translate-y-1/2;
+    svg {
+      fill: #fff;
+      fill-opacity: 50%;
+      width: 24px;
+      height: 24px;
+    }
+  }
+  .ais-SearchBox-reset {
+    @apply absolute right-5 text-white top-1/2 transform -translate-y-1/2;
+    svg {
+      fill: #fff;
+      fill-opacity: 50%;
+      width: 10px;
+      height: 10px;
+    }
+  }
+}
+
+.aa-DetachedOverlay {
+  @apply fixed top-0 left-0 w-full h-full z-50 bg-dark bg-opacity-20 flex items-center justify-center backdrop-blur-md;
+  .aa-DetachedContainer {
+    @apply bg-dark w-11/12 md:w-1/2 max-w-lg p-5 rounded-lg shadow border border-gray-800;
+  }
+  .aa-DetachedFormContainer {
+    @apply relative;
+    .aa-DetachedCancelButton {
+      @apply text-sm text-primary underline ml-auto flex mt-2 mr-3;
+    }
+    .aa-Form {
+      @apply relative;
+      .aa-InputWrapperPrefix {
+        @apply absolute left-5 top-0 bottom-0 flex items-center;
+        .aa-Label {
+          @apply flex items-center;
+        }
+      }
+      .aa-InputWrapperSuffix {
+        @apply absolute right-5 top-0 bottom-0 flex items-center;
+        .aa-Label {
+          @apply flex items-center;
+        }
+      }
+      .aa-InputWrapper {
+        input {
+          @apply w-full py-3 pl-14 pr-4 border-0 rounded-3xl bg-[#222] focus-within:border-transparent focus:ring-0 placeholder:font-light placeholder:text-white placeholder:text-opacity-50;
+        }
+      }
+    }
+  }
+}
+.aa-Autocomplete {
+  .aa-DetachedSearchButton {
+    @apply w-full py-3 pl-14 pr-4 border-0 rounded-3xl bg-[#222] focus-within:border-transparent focus:ring-0 relative;
+    .aa-DetachedSearchButtonIcon {
+      @apply absolute left-5 top-0 bottom-0 flex items-center;
+      svg {
+        fill: #fff;
+        fill-opacity: 50%;
+        width: 24px;
+        height: 24px;
+      }
+    }
+    .aa-DetachedSearchButtonPlaceholder {
+      @apply text-left font-light text-white text-opacity-50;
+    }
+  }
+}
+
+.no-newline {
+  white-space: nowrap;
+}
+/* Start purging... */
+@import 'tailwindcss/utilities';
+/* Stop purging. */
+
+@layer components {
+  .grid-view {
+    @apply grid lg:grid-cols-5 xl:grid-cols-6 lg:gap-4 grid-cols-2;
+  }
+  .grid-view-sidebar {
+    @apply grid lg:grid-cols-4 lg:gap-4;
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "id": "//ly.img.cesdk.stickers.emoji",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/emoji",
+          "assets": [
+            "//ly.img.cesdk.stickers.emoji/Vomiting",
+            "//ly.img.cesdk.stickers.emoji/anguished",
+            "//ly.img.cesdk.stickers.emoji/ape",
+            "//ly.img.cesdk.stickers.emoji/beer",
+            "//ly.img.cesdk.stickers.emoji/crying",
+            "//ly.img.cesdk.stickers.emoji/devil",
+            "//ly.img.cesdk.stickers.emoji/doubtful",
+            "//ly.img.cesdk.stickers.emoji/drooling",
+            "//ly.img.cesdk.stickers.emoji/flushed",
+            "//ly.img.cesdk.stickers.emoji/grim",
+            "//ly.img.cesdk.stickers.emoji/grimacing",
+            "//ly.img.cesdk.stickers.emoji/halo",
+            "//ly.img.cesdk.stickers.emoji/hand_pointing_left",
+            "//ly.img.cesdk.stickers.emoji/hand_pointing_right",
+            "//ly.img.cesdk.stickers.emoji/hanky",
+            "//ly.img.cesdk.stickers.emoji/happyface",
+            "//ly.img.cesdk.stickers.emoji/hearteyes",
+            "//ly.img.cesdk.stickers.emoji/lips",
+            "//ly.img.cesdk.stickers.emoji/melon",
+            "//ly.img.cesdk.stickers.emoji/nauseated",
+            "//ly.img.cesdk.stickers.emoji/pacman",
+            "//ly.img.cesdk.stickers.emoji/persevering",
+            "//ly.img.cesdk.stickers.emoji/pizza",
+            "//ly.img.cesdk.stickers.emoji/rollingeyes",
+            "//ly.img.cesdk.stickers.emoji/sad",
+            "//ly.img.cesdk.stickers.emoji/skull",
+            "//ly.img.cesdk.stickers.emoji/smile",
+            "//ly.img.cesdk.stickers.emoji/sunglasses",
+            "//ly.img.cesdk.stickers.emoji/tearsofjoy",
+            "//ly.img.cesdk.stickers.emoji/thumbsup",
+            "//ly.img.cesdk.stickers.emoji/tongueout",
+            "//ly.img.cesdk.stickers.emoji/unamused",
+            "//ly.img.cesdk.stickers.emoji/unicorn",
+            "//ly.img.cesdk.stickers.emoji/winking",
+            "//ly.img.cesdk.stickers.emoji/zany"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "Vomiting",
+          "thumbPath": "images/emoji_Vomiting.svg",
+          "imagePath": "images/emoji_Vomiting.svg",
+          "size": {
+            "width": 1410,
+            "height": 2048
+          }
+        },
+        {
+          "id": "anguished",
+          "thumbPath": "images/emoji_anguished.svg",
+          "imagePath": "images/emoji_anguished.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "ape",
+          "thumbPath": "images/emoji_ape.svg",
+          "imagePath": "images/emoji_ape.svg",
+          "size": {
+            "width": 2048,
+            "height": 1696
+          }
+        },
+        {
+          "id": "beer",
+          "thumbPath": "images/emoji_beer.svg",
+          "imagePath": "images/emoji_beer.svg",
+          "size": {
+            "width": 1656,
+            "height": 2048
+          }
+        },
+        {
+          "id": "crying",
+          "thumbPath": "images/emoji_crying.svg",
+          "imagePath": "images/emoji_crying.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "devil",
+          "thumbPath": "images/emoji_devil.svg",
+          "imagePath": "images/emoji_devil.svg",
+          "size": {
+            "width": 2048,
+            "height": 1957
+          }
+        },
+        {
+          "id": "doubtful",
+          "thumbPath": "images/emoji_doubtful.svg",
+          "imagePath": "images/emoji_doubtful.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "drooling",
+          "thumbPath": "images/emoji_drooling.svg",
+          "imagePath": "images/emoji_drooling.svg",
+          "size": {
+            "width": 1551,
+            "height": 2048
+          }
+        },
+        {
+          "id": "flushed",
+          "thumbPath": "images/emoji_flushed.svg",
+          "imagePath": "images/emoji_flushed.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "grim",
+          "thumbPath": "images/emoji_grim.svg",
+          "imagePath": "images/emoji_grim.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "grimacing",
+          "thumbPath": "images/emoji_grimacing.svg",
+          "imagePath": "images/emoji_grimacing.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "halo",
+          "thumbPath": "images/emoji_halo.svg",
+          "imagePath": "images/emoji_halo.svg",
+          "size": {
+            "width": 1753,
+            "height": 2048
+          }
+        },
+        {
+          "id": "hand_pointing_left",
+          "thumbPath": "images/emoji_hand_pointing_left.svg",
+          "imagePath": "images/emoji_hand_pointing_left.svg",
+          "size": {
+            "width": 2048,
+            "height": 1556
+          }
+        },
+        {
+          "id": "hand_pointing_right",
+          "thumbPath": "images/emoji_hand_pointing_right.svg",
+          "imagePath": "images/emoji_hand_pointing_right.svg",
+          "size": {
+            "width": 2048,
+            "height": 1556
+          }
+        },
+        {
+          "id": "hanky",
+          "thumbPath": "images/emoji_hanky.svg",
+          "imagePath": "images/emoji_hanky.svg",
+          "size": {
+            "width": 2048,
+            "height": 1553
+          }
+        },
+        {
+          "id": "happyface",
+          "thumbPath": "images/emoji_happyface.svg",
+          "imagePath": "images/emoji_happyface.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "hearteyes",
+          "thumbPath": "images/emoji_hearteyes.svg",
+          "imagePath": "images/emoji_hearteyes.svg",
+          "size": {
+            "width": 2048,
+            "height": 1661
+          }
+        },
+        {
+          "id": "lips",
+          "thumbPath": "images/emoji_lips.svg",
+          "imagePath": "images/emoji_lips.svg",
+          "size": {
+            "width": 2048,
+            "height": 1353
+          }
+        },
+        {
+          "id": "melon",
+          "thumbPath": "images/emoji_melon.svg",
+          "imagePath": "images/emoji_melon.svg",
+          "size": {
+            "width": 2048,
+            "height": 1151
+          }
+        },
+        {
+          "id": "nauseated",
+          "thumbPath": "images/emoji_nauseated.svg",
+          "imagePath": "images/emoji_nauseated.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "pacman",
+          "thumbPath": "images/emoji_pacman.svg",
+          "imagePath": "images/emoji_pacman.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "persevering",
+          "thumbPath": "images/emoji_persevering.svg",
+          "imagePath": "images/emoji_persevering.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "pizza",
+          "thumbPath": "images/emoji_pizza.svg",
+          "imagePath": "images/emoji_pizza.svg",
+          "size": {
+            "width": 1380,
+            "height": 2048
+          }
+        },
+        {
+          "id": "rollingeyes",
+          "thumbPath": "images/emoji_rollingeyes.svg",
+          "imagePath": "images/emoji_rollingeyes.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "sad",
+          "thumbPath": "images/emoji_sad.svg",
+          "imagePath": "images/emoji_sad.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "skull",
+          "thumbPath": "images/emoji_skull.svg",
+          "imagePath": "images/emoji_skull.svg",
+          "size": {
+            "width": 1965,
+            "height": 2048
+          }
+        },
+        {
+          "id": "smile",
+          "thumbPath": "images/emoji_smile.svg",
+          "imagePath": "images/emoji_smile.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "sunglasses",
+          "thumbPath": "images/emoji_sunglasses.svg",
+          "imagePath": "images/emoji_sunglasses.svg",
+          "size": {
+            "width": 2048,
+            "height": 1810
+          }
+        },
+        {
+          "id": "tearsofjoy",
+          "thumbPath": "images/emoji_tearsofjoy.svg",
+          "imagePath": "images/emoji_tearsofjoy.svg",
+          "size": {
+            "width": 2048,
+            "height": 1530
+          }
+        },
+        {
+          "id": "thumbsup",
+          "thumbPath": "images/emoji_thumbsup.svg",
+          "imagePath": "images/emoji_thumbsup.svg",
+          "size": {
+            "width": 1601,
+            "height": 2048
+          }
+        },
+        {
+          "id": "tongueout",
+          "thumbPath": "images/emoji_tongueout.svg",
+          "imagePath": "images/emoji_tongueout.svg",
+          "size": {
+            "width": 985,
+            "height": 1024
+          }
+        },
+        {
+          "id": "unamused",
+          "thumbPath": "images/emoji_unamused.svg",
+          "imagePath": "images/emoji_unamused.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "unicorn",
+          "thumbPath": "images/emoji_unicorn.svg",
+          "imagePath": "images/emoji_unicorn.svg",
+          "size": {
+            "width": 1769,
+            "height": 2048
+          }
+        },
+        {
+          "id": "winking",
+          "thumbPath": "images/emoji_winking.svg",
+          "imagePath": "images/emoji_winking.svg",
+          "size": {
+            "width": 2048,
+            "height": 2048
+          }
+        },
+        {
+          "id": "zany",
+          "thumbPath": "images/emoji_zany.svg",
+          "imagePath": "images/emoji_zany.svg",
+          "size": {
+            "width": 1723,
+            "height": 2048
+          }
+        }
+      ]
+    }
+  ]
+}

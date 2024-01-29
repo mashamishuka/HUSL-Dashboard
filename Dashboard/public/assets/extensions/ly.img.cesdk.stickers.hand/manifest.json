@@ -1,0 +1,99 @@
+{
+  "id": "//ly.img.cesdk.stickers.hand",
+  "version": "0.2.0",
+  "schemaVersion": "0.2.0",
+  "assets": [
+    {
+      "type": "ly.img.sticker",
+      "categories": [
+        {
+          "id": "category/hand",
+          "assets": [
+            "//ly.img.cesdk.stickers.hand/alive",
+            "//ly.img.cesdk.stickers.hand/five",
+            "//ly.img.cesdk.stickers.hand/friends",
+            "//ly.img.cesdk.stickers.hand/fuck",
+            "//ly.img.cesdk.stickers.hand/heart",
+            "//ly.img.cesdk.stickers.hand/luck",
+            "//ly.img.cesdk.stickers.hand/ok",
+            "//ly.img.cesdk.stickers.hand/vibes"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "alive",
+          "thumbPath": "images/hand_alive.svg",
+          "imagePath": "images/hand_alive.svg",
+          "size": {
+            "width": 1425,
+            "height": 2048
+          }
+        },
+        {
+          "id": "five",
+          "thumbPath": "images/hand_five.svg",
+          "imagePath": "images/hand_five.svg",
+          "size": {
+            "width": 806,
+            "height": 2048
+          }
+        },
+        {
+          "id": "friends",
+          "thumbPath": "images/hand_friends.svg",
+          "imagePath": "images/hand_friends.svg",
+          "size": {
+            "width": 1211,
+            "height": 2048
+          }
+        },
+        {
+          "id": "fuck",
+          "thumbPath": "images/hand_fuck.svg",
+          "imagePath": "images/hand_fuck.svg",
+          "size": {
+            "width": 849,
+            "height": 2048
+          }
+        },
+        {
+          "id": "heart",
+          "thumbPath": "images/hand_heart.svg",
+          "imagePath": "images/hand_heart.svg",
+          "size": {
+            "width": 1386,
+            "height": 2048
+          }
+        },
+        {
+          "id": "luck",
+          "thumbPath": "images/hand_luck.svg",
+          "imagePath": "images/hand_luck.svg",
+          "size": {
+            "width": 854,
+            "height": 2048
+          }
+        },
+        {
+          "id": "ok",
+          "thumbPath": "images/hand_ok.svg",
+          "imagePath": "images/hand_ok.svg",
+          "size": {
+            "width": 1425,
+            "height": 2048
+          }
+        },
+        {
+          "id": "vibes",
+          "thumbPath": "images/hand_vibes.svg",
+          "imagePath": "images/hand_vibes.svg",
+          "size": {
+            "width": 1567,
+            "height": 2048
+          }
+        }
+      ]
+    }
+  ]
+}

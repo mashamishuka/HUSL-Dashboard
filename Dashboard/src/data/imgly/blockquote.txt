@@ -1,0 +1,62 @@
+CreativeEngine.init(config).then(async (engine) => {
+        const scene = await engine.scene.create()
+
+        // variables to be used in the scene
+        const textVar = engine.variable.getString('text')
+        const primaryColor = engine.variable.getString('primaryColor')
+        const primaryColorRgba = hextToRgbRanged(primaryColor)
+        const page = engine.block.create(DesignBlockType.Page)
+        engine.block.appendChild(scene, page)
+
+        engine.block.setWidthMode(page, 'Absolute')
+        engine.block.setWidth(page, 800)
+        engine.block.setHeightMode(page, 'Absolute')
+        engine.block.setHeight(page, 800)
+
+        const solidColor = engine.block.createFill('color')
+        engine.block.setColorRGBA(
+          solidColor,
+          'color/value',
+          primaryColorRgba.r,
+          primaryColorRgba.g,
+          primaryColorRgba.b,
+          primaryColorRgba.a
+        )
+        engine.block.setFill(page, solidColor)
+
+        const text = engine.block.create(DesignBlockType.Text)
+        engine.block.setName(text, 'mainText')
+        engine.block.setString(text, 'text/text', `“\n${textVar}\n”`)
+        engine.block.setFloat(text, 'text/fontSize', 16)
+        engine.block.setEnum(text, 'text/horizontalAlignment', 'Center')
+        engine.block.setFillSolidColor(text, 1, 1, 1, 1)
+        engine.block.setFloat(text, 'text/lineHeight', 1.4)
+        engine.block.setFloat(text, 'text/letterSpacing', -0.06)
+        engine.block.setString(
+          text,
+          'text/fontFileUri',
+          `${window.location.protocol}//${window.location.host}/fonts/gotham-pro/GothamPro-Bold.ttf`
+        )
+        engine.block.setEnum(text, 'text/verticalAlignment', 'Center')
+
+        engine.block.setWidth(text, engine.block.getWidth(page))
+        engine.block.setHeight(text, engine.block.getHeight(page))
+        // engine.block.setPositionX(text, 100)
+        // engine.block.setPositionY(text, 100)
+
+        engine.block.appendChild(page, text)
+        // console.log(engine.block.getWidth(page))
+        const sceneString = await engine.scene.saveToString()
+        setScene(sceneString)
+        /* Export scene as PNG image. */
+        // const s = engine.scene.get()
+        // const mimeType = 'image/png'
+        // const options = { pngCompressionLevel: 9 }
+        // const blob = await engine.block.export(s, mimeType, options)
+
+        // /* Download blob. */
+        // const anchor = document.createElement('a')
+        // anchor.href = URL.createObjectURL(blob)
+        // anchor.download = 'export.png'
+        // anchor.click()
+      })

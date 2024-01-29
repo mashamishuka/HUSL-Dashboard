@@ -1,0 +1,34 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap');
+
+// DEFINE YOUR OWN FONT FROM ./fonts HERE
+// EXAMPLE:
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('../fonts/sofiapro/sofiapro-light.otf') format('opentype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('../fonts/sofiapro/sofiapro-medium.otf') format('opentype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('../fonts/sofiapro/sofiapro-bold.otf') format('opentype');
+  font-weight: 700;
+}
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   @apply font-display font-black;
+// }
+// strong {
+//   @apply font-black font-display;
+// }
+html,
+body {
+  @apply text-black;
+}
